@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, ich bin Yannik Köllmann 👋
 
-<!--
-**ykoellmann/ykoellmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatikstudent an der Universität Jena  
+👨‍💼 Werkstudent im Bereich Softwareentwicklung bei monari GmbH  
 
-Here are some ideas to get you started:
+🎯 Meine Interessen:  
+**Unity | .NET Entwicklung | SQL | Plugin-Entwicklung für JetBrains IDEs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projekte
+
+### SatTrak – 3D Satellitenvisualisierung mit Unity & Cesium  
+Interaktives Projekt zur Echtzeit-Verfolgung von über 5000 Satelliten auf einem virtuellen Globus mit vielfältigen Features wie Heatmap-Darstellung, Tag/Nacht-Zyklus, Zeitsteuerung und Performanceoptimierungen.
+
+[Repository & Details](https://github.com/JanVogt06/SatTrak-SatelliteVisualization)
+
+---
+
+### cteXecutor – JetBrains Plugin  
+Plugin im JetBrains Marketplace zur Unterstützung von SQL-Entwicklung direkt in IDEs wie IntelliJ IDEA und Rider.
+
+[Marketplace-Link](https://plugins.jetbrains.com/plugin/27835-ctexecutor)
+
+---
+
+## 📫 Kontakt
+
+✉️ E-Mail: [yankoe@outlook.de](mailto:yankoe@outlook.de)  
+🔗 [LinkedIn Profil](https://de.linkedin.com/in/yannik-k%C3%B6llmann-18ab94227)
+
+---
+
+*„Ich liebe es, komplexe Probleme mit eleganten Lösungen zu lösen.“*
