@@ -27,7 +27,7 @@ Plugin im JetBrains Marketplace zur Unterstützung von SQL-Entwicklung direkt in
 ## 📫 Kontakt
 
 ✉️ E-Mail: [yankoe@outlook.de](mailto:yankoe@outlook.de)  
-🔗 [LinkedIn Profil](https://de.linkedin.com/in/yannik-k%C3%B6llmann-18ab94227)
+🔗 [LinkedIn Profil](linkedin.com/in/yannikkoellmann)
 
 ---
 
