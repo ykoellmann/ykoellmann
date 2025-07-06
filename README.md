@@ -22,6 +22,8 @@ Plugin im JetBrains Marketplace zur Unterstützung von SQL-Entwicklung direkt in
 
 [Marketplace-Link](https://plugins.jetbrains.com/plugin/27835-ctexecutor)
 
+---
+
 ### ... und viele weitere - auch in meinen Repositories zu sehen
 
 ---
