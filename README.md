@@ -22,6 +22,11 @@ Plugin im JetBrains Marketplace zur Unterstützung von SQL-Entwicklung direkt in
 
 [Marketplace-Link](https://plugins.jetbrains.com/plugin/27835-ctexecutor)
 
+### Battleships – Schiffeversenken mit Python
+Vollständige implementierung von Schiffeversenken mit tkinter GUI
+
+[Repository & Details](https://github.com/ykoellmann/Battleships)
+
 ---
 
 ### ... und viele weitere - auch in meinen Repositories zu sehen
