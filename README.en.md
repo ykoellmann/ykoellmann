@@ -106,7 +106,7 @@ Modern portfolio website with a unique IDE-like interface inspired by VS Code. F
 
 ## 📫 Contact
 
-✉️ **E-Mail:** [yankoe@outlook.de](mailto:contact@koellmann.dev)  
+✉️ **E-Mail:** [contact@koellmann.dev](mailto:contact@koellmann.dev)  
 💼 **LinkedIn:** [linkedin.com/in/yannikkoellmann](https://linkedin.com/in/yannikkoellmann)  
 🌐 **Portfolio:** [koellmann.dev](https://koellmann.dev)
 
