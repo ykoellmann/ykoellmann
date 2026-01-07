@@ -92,7 +92,7 @@ Moderne Portfolio-Website mit einzigartiger IDE-ähnlicher Oberfläche inspirier
 
 ## 📫 Kontakt
 
-✉️ **E-Mail:** [yankoe@outlook.de](mailto:yankoe@outlook.de)  
+✉️ **E-Mail:** [yankoe@outlook.de](mailto:contact@koellmann.dev)  
 💼 **LinkedIn:** [linkedin.com/in/yannikkoellmann](https://linkedin.com/in/yannikkoellmann)  
 🌐 **Portfolio:** [koellmann.dev](https://koellmann.dev)
 
