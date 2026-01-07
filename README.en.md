@@ -106,18 +106,11 @@ Modern portfolio website with a unique IDE-like interface inspired by VS Code. F
 
 ## 📫 Contact
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-yankoe@outlook.de-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yankoe@outlook.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yannikkoellmann-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yannikkoellmann)
-[![Portfolio](https://img.shields.io/badge/Portfolio-koellmann.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://koellmann.dev)
-
-</div>
+✉️ **E-Mail:** [yankoe@outlook.de](mailto:contact@koellmann.dev)  
+💼 **LinkedIn:** [linkedin.com/in/yannikkoellmann](https://linkedin.com/in/yannikkoellmann)  
+🌐 **Portfolio:** [koellmann.dev](https://koellmann.dev)
 
 ---
 
-<div align="center">
-
 > *"Complex problems deserve elegant solutions – I develop both."*
 
-</div>
