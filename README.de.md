@@ -1,21 +1,21 @@
 <div align="center">
 
-[![de](https://img.shields.io/badge/lang-de-grey.svg)](./README.de.md)
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md)
+[![de](https://img.shields.io/badge/lang-de-blue.svg)](./README.de.md)
+[![en](https://img.shields.io/badge/lang-en-grey.svg)](./README.md)
 
 </div>
 
 # Yannik Köllmann
 
-**Computer Science Student @ Friedrich Schiller University Jena · Software Developer @ monari GmbH**
+**Informatikstudent @ Friedrich-Schiller-Universität Jena · Softwareentwickler @ monari GmbH**
 
-I build backend systems and developer tools – focused on .NET, JetBrains plugins, and anything that makes developer workflows faster. Before university: vocational training as an IT Specialist for Application Development (Best Apprentice 2024, IHK Nord Westfalen). On the side, I run a homelab and occasionally build games in Unity.
+Ich entwickle Backend-Systeme und Developer Tools – mit Fokus auf .NET, JetBrains-Plugins und allem, was Entwicklerworkflows schneller macht. Vor dem Studium: Ausbildung zum Fachinformatiker für Anwendungsentwicklung (beste Auszubildende 2024, IHK Nord Westfalen). Nebenbei betreibe ich ein Homelab und baue gelegentlich Spiele in Unity.
 
 ---
 
 ## Tech Stack
 
-**Backend & Languages**
+**Backend & Sprachen**
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -23,7 +23,7 @@ I build backend systems and developer tools – focused on .NET, JetBrains plugi
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**Databases**
+**Datenbanken**
 
 ![Db2 for IBM i](https://img.shields.io/badge/Db2%20for%20IBM%20i-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,7 +36,7 @@ I build backend systems and developer tools – focused on .NET, JetBrains plugi
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Tools & Infrastructure**
+**Tools & Infrastruktur**
 
 ![IntelliJ Platform](https://img.shields.io/badge/IntelliJ%20Platform%20SDK-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -46,39 +46,39 @@ I build backend systems and developer tools – focused on .NET, JetBrains plugi
 
 ---
 
-## Projects
+## Projekte
 
 **JetBrains Plugins**
 
-- **[cteXecutor](https://plugins.jetbrains.com/plugin/27835-ctexecutor)** – Direct execution of CTEs and subqueries in DataGrip & IntelliJ-based IDEs with automatic dependency resolution. *(Kotlin, IntelliJ Platform SDK)*
+- **[cteXecutor](https://plugins.jetbrains.com/plugin/27835-ctexecutor)** – Direkte Ausführung von CTEs und Subqueries in DataGrip & IntelliJ-IDEs mit automatischer Abhängigkeitsauflösung. *(Kotlin, IntelliJ Platform SDK)*
   [![Version](https://img.shields.io/jetbrains/plugin/v/27835?style=flat&logo=jetbrains&label=Marketplace)](https://plugins.jetbrains.com/plugin/27835-ctexecutor)
   [![Downloads](https://img.shields.io/jetbrains/plugin/d/27835?style=flat)](https://plugins.jetbrains.com/plugin/27835-ctexecutor)
-- **[Sonarwhale](https://plugins.jetbrains.com/plugin/32058-sonarwhale)** – Reads API endpoints from OpenAPI/Swagger sources and makes them testable directly inside Rider, with automatic endpoint discovery. *(Kotlin, IntelliJ Platform SDK)*
+- **[Sonarwhale](https://plugins.jetbrains.com/plugin/32058-sonarwhale)** – Liest API-Endpunkte aus OpenAPI/Swagger-Quellen und macht sie direkt in Rider testbar – mit automatischer Endpoint-Erkennung. *(Kotlin, IntelliJ Platform SDK)*
   [![Version](https://img.shields.io/jetbrains/plugin/v/32058?style=flat&logo=jetbrains&label=Marketplace)](https://plugins.jetbrains.com/plugin/32058-sonarwhale)
   [![Downloads](https://img.shields.io/jetbrains/plugin/d/32058?style=flat)](https://plugins.jetbrains.com/plugin/32058-sonarwhale)
-- **[Shortplate](https://plugins.jetbrains.com/plugin/32176-shortplate)** – Assign keyboard shortcuts to any Live Template via the standard JetBrains Keymap dialog. *(Kotlin, IntelliJ Platform SDK)*
+- **[Shortplate](https://plugins.jetbrains.com/plugin/32176-shortplate)** – Weist Live Templates Tastenkürzel zu – direkt über den Standard-Keymap-Dialog der JetBrains-IDEs. *(Kotlin, IntelliJ Platform SDK)*
   [![Version](https://img.shields.io/jetbrains/plugin/v/32176?style=flat&logo=jetbrains&label=Marketplace)](https://plugins.jetbrains.com/plugin/32176-shortplate)
   [![Downloads](https://img.shields.io/jetbrains/plugin/d/32176?style=flat)](https://plugins.jetbrains.com/plugin/32176-shortplate)
 
-**University Projects**
+**Universitätsprojekte**
 
-- **[SatTrak](https://github.com/JanVogt06/SatTrak-SatelliteVisualization)** – Real-time 3D visualization of over 12,000 satellites. GPU-based heatmap, day/night cycle, time control, performance optimization via Unity Job System. *(Unity, Cesium, SGP4)*
-- **[Tsunami Lab](https://github.com/ykoellmann/tsunami_lab)** – C++ shallow-water wave simulation with NetCDF output and ParaView visualization. *(C++, CMake)*
+- **[SatTrak](https://github.com/JanVogt06/SatTrak-SatelliteVisualization)** – Echtzeit-3D-Visualisierung von über 12.000 Satelliten. GPU-basierte Heatmap, Tag/Nacht-Zyklus, Zeitsteuerung, Performance-Optimierung via Unity Job System. *(Unity, Cesium, SGP4)*
+- **[Tsunami Lab](https://github.com/ykoellmann/tsunami_lab)** – C++-Simulation von Flachwasserwellen mit NetCDF-Ausgabe und ParaView-Visualisierung. *(C++, CMake)*
 
-**Other Projects**
+**Weitere Projekte**
 
-- **[Portfolio Website](https://koellmann.dev)** – Portfolio with an IDE-inspired interface: tab system, Search Everywhere, customizable keymap. *(React, TypeScript, Vite, Tailwind CSS)*
-- **Cryptborne** – Top-down roguelike dungeon crawler with procedurally generated dungeons and dynamic enemy AI. *(Unity 6, C#)*
-- **[PawPal](https://www.bwv-ahaus.de/index.php?view=article&id=284:pawpal-siegt-bei-den-it-projekttagen-2023&catid=28)** – Pet adoption web app, winning project of IT Project Days 2023.
+- **[Portfolio-Website](https://koellmann.dev)** – Portfolio mit IDE-inspirierter Oberfläche: Tab-System, Search Everywhere, anpassbare Keymap. *(React, TypeScript, Vite, Tailwind CSS)*
+- **Cryptborne** – Top-Down Roguelike Dungeon Crawler mit prozedural generierten Dungeons und dynamischer Gegner-KI. *(Unity 6, C#)*
+- **[PawPal](https://www.bwv-ahaus.de/index.php?view=article&id=284:pawpal-siegt-bei-den-it-projekttagen-2023&catid=28)** – Web-App zur Haustier-Vermittlung, Siegerprojekt der IT-Projekttage 2023.
 
-More in my [repositories](https://github.com/ykoellmann?tab=repositories).
+Mehr in meinen [Repositories](https://github.com/ykoellmann?tab=repositories).
 
 ---
 
-## Awards
+## Auszeichnungen
 
-- **Best Apprentice 2024** – IHK Nord Westfalen (Borken district), IT Specialist for Application Development · [Press release](https://www.ihk.de/nordwestfalen/aktuelles/pressemeldungen/pressemeldungen2024/september/ihk-ehrt-83-spitzen-azubis-aus-dem-kreis-borken-6266388)
-- **1st Place IT Project Days 2023** – BWV Ahaus, winning project "PawPal" · [Press release](https://www.bwv-ahaus.de/index.php?view=article&id=284:pawpal-siegt-bei-den-it-projekttagen-2023&catid=28)
+- **Beste Auszubildende 2024** – IHK Nord Westfalen (Kreis Borken), Fachinformatiker für Anwendungsentwicklung · [Pressemeldung](https://www.ihk.de/nordwestfalen/aktuelles/pressemeldungen/pressemeldungen2024/september/ihk-ehrt-83-spitzen-azubis-aus-dem-kreis-borken-6266388)
+- **1. Platz IT-Projekttage 2023** – BWV Ahaus, Siegerprojekt "PawPal" · [Pressemeldung](https://www.bwv-ahaus.de/index.php?view=article&id=284:pawpal-siegt-bei-den-it-projekttagen-2023&catid=28)
 
 ---
 
@@ -94,8 +94,8 @@ More in my [repositories](https://github.com/ykoellmann?tab=repositories).
 
 ---
 
-## Contact
+## Kontakt
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@koellmann.dev)
+[![E-Mail](https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@koellmann.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yannikkoellmann)
 [![Portfolio](https://img.shields.io/badge/Portfolio-koellmann.dev-2D2D2D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://koellmann.dev)
