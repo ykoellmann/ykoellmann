@@ -86,10 +86,9 @@ More in my [repositories](https://github.com/ykoellmann?tab=repositories).
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ykoellmann&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ykoellmann&theme=tokyonight&hide_border=false&rank_icon=github)
 ![Streak](https://streak-stats.demolab.com/?user=ykoellmann&theme=tokyonight&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ykoellmann&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ykoellmann&theme=tokyonight&hide_border=false&layout=compact)
 </div>
 
 ---
